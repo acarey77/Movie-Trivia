@@ -23,7 +23,7 @@ Event listeners and functions.
 Arrays and Objects.
 
 
-User Stories
+User Stories:
 
 As a user, I should be able to start playing as soon as the page in loaded.
 As a user, I should be able to click on a certain answer and know if it's correct or incorrect.
