@@ -8,20 +8,16 @@ const result = document.querySelector('#result')
 const resetBtn = document.querySelector('#reset')
 let playerScore = document.querySelector('#score')
 let scoreCount = 0;
+const answerBoxes = document.querySelectorAll('.answer-boxes')
+const nextQuestion = document.querySelector('#next-question')
 
 playerScore.innerText = `PLAYER SCORE: ${scoreCount} / 3`
 
 
-const answerBoxes = document.querySelectorAll('.answer-boxes')
-// console.log(answerBoxes)
-
-const nextQuestion = document.querySelector('#next-question')
-// console.log(nextQuestion)
-
 
 data = [
     question1 = {
-        question: "What was the name of Neo in the movie The Matrix?", 
+        question: "What was the real name of Neo in the movie The Matrix?", 
         incorrect1: 'Mr. Smith',
         incorrect2: 'Captain Kangaroo',
         correctanswer: "Mr. Anderson"

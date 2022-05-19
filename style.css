@@ -1,7 +1,16 @@
 *{
     /* border: 1px solid purple; */
     padding: 2%;
-    /* background-color: green; */
+   
+    
+  }
+
+  #title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: red;
+    margin-left: 0px;
+   
     
   }
 
@@ -47,7 +56,8 @@
 }
 
 #result {
-    font-size: 20px
+    font-size: 20px;
+    color: green;
 }
 
 #next-question {
