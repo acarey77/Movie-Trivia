@@ -1,5 +1,5 @@
 Wireframe:
-
+![Getting Started](./IMG_0134.jpg)
 
 Game link:
 
