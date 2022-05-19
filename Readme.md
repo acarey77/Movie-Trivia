@@ -1,7 +1,7 @@
 Wireframe:
 ![Getting Started](./IMG_0134.jpg)
 
-Game link:
+Game link: https://quiet-frangollo-1cc084.netlify.app/
 
 
 
