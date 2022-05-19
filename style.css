@@ -1,0 +1,59 @@
+*{
+    /* border: 1px solid purple; */
+    padding: 2%;
+    /* background-color: green; */
+    
+  }
+
+  .header {
+      background-color: rgba(11, 11, 214, 0.829);
+      color: white;
+      border: black;
+  }
+
+#score {
+    font-size: 20px
+}
+
+#question {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 30px
+  }
+
+  .answer-boxes {
+      display: block
+      
+      
+  }
+
+#incorrect-answer1 {
+    background-color: white;
+    border: 1px solid black;
+    margin-left: 0%;
+    font-size: 20px
+
+}
+
+#incorrect-answer2 {
+    background-color: white;
+    border: 1px solid black;
+    font-size: 20px
+}
+
+#correct-answer {
+    background-color: white;
+    border: 1px solid black;
+    font-size: 20px
+}
+
+#result {
+    font-size: 20px
+}
+
+#next-question {
+    font-size: 15px
+}
+
+#reset {
+    font-size: 15px
+}
