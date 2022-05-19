@@ -5,7 +5,7 @@ Game link:
 
 
 
-Preview
+Preview:
 This is movie trivia game. A question is made, the player clicks on one of the answers and if it's correct the box gets highlighted in green, and if it's incorrect the box gets highlighted in red. There is a score counter which keeps track of all of the correct answers.
 
 
