@@ -37,6 +37,13 @@ data = [
         correctanswer: "Quaaludes"
     },
 
+    question4 = {
+        question: 'To what year was Marty McFly sent in the first "Back to the Future" movie?', 
+        incorrect1: '1992',
+        incorrect2: '1989',
+        correctanswer: "1985"
+    },
+
 ]
 
 let counter = 0
